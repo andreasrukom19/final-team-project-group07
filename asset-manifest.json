@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/final-team-project-group07/static/css/main.7acaea2f.css",
-    "main.js": "/final-team-project-group07/static/js/main.2faee98f.js",
+    "main.css": "/final-team-project-group07/static/css/main.28f5bfe0.css",
+    "main.js": "/final-team-project-group07/static/js/main.04bed2e3.js",
+    "static/media/bg_mainpage_bottle@2x.png": "/final-team-project-group07/static/media/bg_mainpage_bottle@2x.51d360a2af4242af9baf.png",
+    "static/media/bg_mainpage@2x.png": "/final-team-project-group07/static/media/bg_mainpage@2x.1a811c7122708d99a263.png",
+    "static/media/bg_mainpage_bottle@1x.png": "/final-team-project-group07/static/media/bg_mainpage_bottle@1x.d48dedd52c2ffb1a606d.png",
+    "static/media/bg_mainpage@1x.png": "/final-team-project-group07/static/media/bg_mainpage@1x.5b0a3bc3f9bc921f0742.png",
     "index.html": "/final-team-project-group07/index.html",
-    "main.7acaea2f.css.map": "/final-team-project-group07/static/css/main.7acaea2f.css.map",
-    "main.2faee98f.js.map": "/final-team-project-group07/static/js/main.2faee98f.js.map"
+    "static/media/calendar.svg": "/final-team-project-group07/static/media/calendar.63063be66db8d8a635da468436061cac.svg",
+    "static/media/personal-settings.svg": "/final-team-project-group07/static/media/personal-settings.cb41dc2d9f9ad4e2d448f3aa2dbf01ff.svg",
+    "static/media/statistics.svg": "/final-team-project-group07/static/media/statistics.d8f1ffc51e386adc2b99aacc7c551249.svg",
+    "main.28f5bfe0.css.map": "/final-team-project-group07/static/css/main.28f5bfe0.css.map",
+    "main.04bed2e3.js.map": "/final-team-project-group07/static/js/main.04bed2e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.2faee98f.js"
+    "static/css/main.28f5bfe0.css",
+    "static/js/main.04bed2e3.js"
   ]
 }
