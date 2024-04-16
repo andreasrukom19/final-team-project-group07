@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[765],{765:function(e,t,a){a.r(t);var r=a(184);t.default=function(){return(0,r.jsx)("div",{children:"HOME PAGE HERE. This page wants a private route. Please add a private route after adding a redux in project. And this page should be on another route."})}}}]);
-//# sourceMappingURL=765.0fe8da20.chunk.js.map
