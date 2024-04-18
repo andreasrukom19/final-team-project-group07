@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/final-team-project-group07/static/css/main.be68fc95.css",
-    "main.js": "/final-team-project-group07/static/js/main.1ba4828f.js",
+    "main.js": "/final-team-project-group07/static/js/main.71b0a964.js",
     "static/js/163.692b55d5.chunk.js": "/final-team-project-group07/static/js/163.692b55d5.chunk.js",
-    "static/js/282.a915e3e4.chunk.js": "/final-team-project-group07/static/js/282.a915e3e4.chunk.js",
-    "static/js/676.90ea928a.chunk.js": "/final-team-project-group07/static/js/676.90ea928a.chunk.js",
+    "static/js/691.d74a05f5.chunk.js": "/final-team-project-group07/static/js/691.d74a05f5.chunk.js",
+    "static/js/468.af15557c.chunk.js": "/final-team-project-group07/static/js/468.af15557c.chunk.js",
     "static/js/840.a1609f06.chunk.js": "/final-team-project-group07/static/js/840.a1609f06.chunk.js",
     "static/js/306.b3cd69aa.chunk.js": "/final-team-project-group07/static/js/306.b3cd69aa.chunk.js",
     "static/media/bottle_home@2x.png": "/final-team-project-group07/static/media/bottle_home@2x.e3d23e6ed37d87fb7393.png",
@@ -23,15 +23,15 @@
     "static/media/personal-settings.svg": "/final-team-project-group07/static/media/personal-settings.cb41dc2d9f9ad4e2d448f3aa2dbf01ff.svg",
     "static/media/statistics.svg": "/final-team-project-group07/static/media/statistics.d8f1ffc51e386adc2b99aacc7c551249.svg",
     "main.be68fc95.css.map": "/final-team-project-group07/static/css/main.be68fc95.css.map",
-    "main.1ba4828f.js.map": "/final-team-project-group07/static/js/main.1ba4828f.js.map",
+    "main.71b0a964.js.map": "/final-team-project-group07/static/js/main.71b0a964.js.map",
     "163.692b55d5.chunk.js.map": "/final-team-project-group07/static/js/163.692b55d5.chunk.js.map",
-    "282.a915e3e4.chunk.js.map": "/final-team-project-group07/static/js/282.a915e3e4.chunk.js.map",
-    "676.90ea928a.chunk.js.map": "/final-team-project-group07/static/js/676.90ea928a.chunk.js.map",
+    "691.d74a05f5.chunk.js.map": "/final-team-project-group07/static/js/691.d74a05f5.chunk.js.map",
+    "468.af15557c.chunk.js.map": "/final-team-project-group07/static/js/468.af15557c.chunk.js.map",
     "840.a1609f06.chunk.js.map": "/final-team-project-group07/static/js/840.a1609f06.chunk.js.map",
     "306.b3cd69aa.chunk.js.map": "/final-team-project-group07/static/js/306.b3cd69aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be68fc95.css",
-    "static/js/main.1ba4828f.js"
+    "static/js/main.71b0a964.js"
   ]
 }
