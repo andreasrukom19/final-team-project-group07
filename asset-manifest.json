@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/final-team-project-group07/static/css/main.be68fc95.css",
-    "main.js": "/final-team-project-group07/static/js/main.71b0a964.js",
+    "main.css": "/final-team-project-group07/static/css/main.5165b781.css",
+    "main.js": "/final-team-project-group07/static/js/main.dfd25065.js",
     "static/js/163.692b55d5.chunk.js": "/final-team-project-group07/static/js/163.692b55d5.chunk.js",
     "static/js/691.d74a05f5.chunk.js": "/final-team-project-group07/static/js/691.d74a05f5.chunk.js",
     "static/js/468.af15557c.chunk.js": "/final-team-project-group07/static/js/468.af15557c.chunk.js",
     "static/js/840.a1609f06.chunk.js": "/final-team-project-group07/static/js/840.a1609f06.chunk.js",
-    "static/js/306.b3cd69aa.chunk.js": "/final-team-project-group07/static/js/306.b3cd69aa.chunk.js",
+    "static/js/7.98382829.chunk.js": "/final-team-project-group07/static/js/7.98382829.chunk.js",
     "static/media/bottle_home@2x.png": "/final-team-project-group07/static/media/bottle_home@2x.e3d23e6ed37d87fb7393.png",
     "static/media/bg_mainpage_bottle@2x.png": "/final-team-project-group07/static/media/bg_mainpage_bottle@2x.51d360a2af4242af9baf.png",
     "static/media/bottle_signin@1x.png": "/final-team-project-group07/static/media/bottle_signin@1x.50c435ef3c4ed2e4a749.png",
@@ -22,16 +22,16 @@
     "static/media/calendar.svg": "/final-team-project-group07/static/media/calendar.63063be66db8d8a635da468436061cac.svg",
     "static/media/personal-settings.svg": "/final-team-project-group07/static/media/personal-settings.cb41dc2d9f9ad4e2d448f3aa2dbf01ff.svg",
     "static/media/statistics.svg": "/final-team-project-group07/static/media/statistics.d8f1ffc51e386adc2b99aacc7c551249.svg",
-    "main.be68fc95.css.map": "/final-team-project-group07/static/css/main.be68fc95.css.map",
-    "main.71b0a964.js.map": "/final-team-project-group07/static/js/main.71b0a964.js.map",
+    "main.5165b781.css.map": "/final-team-project-group07/static/css/main.5165b781.css.map",
+    "main.dfd25065.js.map": "/final-team-project-group07/static/js/main.dfd25065.js.map",
     "163.692b55d5.chunk.js.map": "/final-team-project-group07/static/js/163.692b55d5.chunk.js.map",
     "691.d74a05f5.chunk.js.map": "/final-team-project-group07/static/js/691.d74a05f5.chunk.js.map",
     "468.af15557c.chunk.js.map": "/final-team-project-group07/static/js/468.af15557c.chunk.js.map",
     "840.a1609f06.chunk.js.map": "/final-team-project-group07/static/js/840.a1609f06.chunk.js.map",
-    "306.b3cd69aa.chunk.js.map": "/final-team-project-group07/static/js/306.b3cd69aa.chunk.js.map"
+    "7.98382829.chunk.js.map": "/final-team-project-group07/static/js/7.98382829.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be68fc95.css",
-    "static/js/main.71b0a964.js"
+    "static/css/main.5165b781.css",
+    "static/js/main.dfd25065.js"
   ]
 }
