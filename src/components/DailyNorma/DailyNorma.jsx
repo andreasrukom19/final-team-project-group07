@@ -1,6 +1,7 @@
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 
 import { openModal } from '../../redux/modal/modalSlice';
+import { selectUserData } from '../../redux/selectors';
 
 import { modalNames } from 'constants/constants';
 
@@ -17,13 +18,14 @@ import {
 const DailyNorma = () => {
   const dispatch = useDispatch();
 
-  const dailyNorma = 1000 / 1000;
+  const { dailyNorma } = useSelector(selectUserData);
+  const dailyNormaLiters = (dailyNorma / 1000).toFixed(1);
 
   return (
     <MyDailyNormaContainer>
       <MyDailyNorma>My daily norma</MyDailyNorma>
       <MyDailyNormaAmount>
-        <WaterNormaAmount>{dailyNorma}L</WaterNormaAmount>
+        <WaterNormaAmount>{dailyNormaLiters} L</WaterNormaAmount>
         <WaterNormaAmountEdit
           type="button"
           onClick={() => dispatch(openModal(modalNames.DAILY_NORMA))}
