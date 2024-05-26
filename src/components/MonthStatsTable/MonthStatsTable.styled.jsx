@@ -222,7 +222,8 @@ export const Border = styled.div`
   bottom: 9px;
   left: 50%;
   transform: ${theme.transform.middle};
-  visibility: ${({ $isvisible }) => ($isvisible ? 'visible' : 'hidden')};
+  background-color: ${({ $percentage }) =>
+    $percentage >= 100 && 'rgba(23, 169, 86, 0.2)'};
 
   @media screen and (min-width: 768px) {
     width: 34px;

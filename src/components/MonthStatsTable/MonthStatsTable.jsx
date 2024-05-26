@@ -14,7 +14,7 @@ import {
   Trigger,
 } from './MonthStatsTable.styled';
 import Popup from 'components/PopupCalendar/PopupCalendar';
-import { selectActualMonth} from '../../redux/selectors';
+import { selectActualMonth } from '../../redux/selectors';
 
 const MonthStatsTable = () => {
   const dispatch = useDispatch();
@@ -61,8 +61,10 @@ const MonthStatsTable = () => {
             const isVisible = percentage < 100;
             return (
               <Container>
-                <Border $isvisible={isVisible} />
-                <DayPercentage>{percentage>100? "100":percentage}%</DayPercentage>
+                <Border $isvisible={isVisible} $percentage={percentage} />
+                <DayPercentage $percentage={percentage}>
+                  {percentage > 100 ? '100' : percentage}%
+                </DayPercentage>
                 <Popup
                   isOpen={selectedDay === date.getDate()}
                   onClose={() => setSelectedDay(null)}
